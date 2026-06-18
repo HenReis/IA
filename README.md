@@ -1,4 +1,3 @@
-# IA
 G12 — Modelação Preditiva de Funcionários
 Tecnologias e Sistemas de Informação para a Web · 2025/26
 
